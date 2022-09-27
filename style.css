@@ -1,0 +1,29 @@
+/*Style du fond Principal de la fenetre*/
+QWidget {
+    background-color: #1e2439;
+    color:white;
+}
+/*La barre des status*/
+QStatusBar{
+    background-color:#161b30;
+}
+
+QLabel{
+    font-size:20px;
+    margin-top:5px;
+}
+
+QLineEdit{
+    padding:5px;
+}
+
+QPushButton{
+    padding-top:6px;
+    padding-bottom:6px;
+    background-color:green;
+}
+#reset{
+    padding-top:6px;
+    padding-bottom:6px;
+    background-color:red;
+}
